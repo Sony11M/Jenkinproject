@@ -23,7 +23,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>example.Sample</mainClass>
+							<mainClass>sipmlepgm.One</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
